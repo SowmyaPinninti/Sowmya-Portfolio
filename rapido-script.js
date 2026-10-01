@@ -891,30 +891,36 @@ Keywords: ride-hailing, two-sided marketplace, SaaS subscription, driver retenti
 
             <!-- FIGMA UI / UX PROTOTYPE -->
 
-            <section class="section figma-section">
+<section class="section figma-section">
 
-                <div class="section-label">
-                    07A — FIGMA UI / UX PROTOTYPE
-                </div>
+    <div class="section-label">
+        07A — FIGMA UI / UX PROTOTYPE
+    </div>
 
-                <div class="figma-intro">
-                    <div>
-                        <h2>Proposed Captain experience.</h2>
-                    </div>
-                    <p>
-                        A placeholder for the Figma-exported interface. The final screen
-                        can show how the proposed Rapido Pro experience translates the
-                        product strategy into a practical Captain workflow.
-                    </p>
-                </div>
+    <div class="figma-intro">
+        <div>
+            <h2>Proposed Captain experience.</h2>
+        </div>
 
-                <div class="figma-placeholder">
-                    <span>FIGMA UI PLACEHOLDER</span>
-                    <strong>Rapido Pro Captain Dashboard</strong>
-                    <small>Replace this area with your exported Figma screen.</small>
-                </div>
+        <p>
+            A proposed mobile experience for Rapido Pro, translating the
+            FastPay product concept into a practical Captain workflow.
+            The prototype focuses on giving Captains faster access to
+            their available earnings.
+        </p>
+    </div>
 
-            </section>
+    <div class="figma-showcase">
+
+        <img
+            src="images/Rapido Pro.png"
+            alt="Rapido Pro FastPay proposed Captain mobile interface"
+            style="padding-left: 412px;"
+        >
+
+    </div>
+
+</section>
 
 
             <!-- FCB GRID -->
