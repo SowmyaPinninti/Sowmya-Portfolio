@@ -235,11 +235,11 @@ document.body.innerHTML = `
                 LINKEDIN ↗
             </a>
 
-            <span class="social-divider"></span>
+           <!-- <span class="social-divider"></span>
 
             <a href="#" target="_blank">
                 GITHUB ↗
-            </a>
+            </a> -->
 
         </div>
 
