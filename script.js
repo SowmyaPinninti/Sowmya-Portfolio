@@ -332,62 +332,71 @@ document.body.innerHTML = `
     <div class="projects-grid">
 
 
-        <!-- PROJECT 01 -->
+       <!-- PROJECT 01 -->
+	
+	
+		<article class="project-card">
 
-        <article class="project-card">
+    <div class="project-top">
 
-            <div class="project-top">
+        <span>
+            04
+        </span>
 
-                <span>
-                    01
-                </span>
+        <span>
+            MOBILITY / SAAS
+        </span>
 
-                <span>
-                    AI / PRODUCT
-                </span>
-
-            </div>
-
-
-            <div class="project-image ai-project">
-
-                <div class="ai-core">
-                    AI
-                </div>
-
-                <div class="ai-orbit orbit-one"></div>
-
-                <div class="ai-orbit orbit-two"></div>
-
-            </div>
+    </div>
 
 
-            <div class="project-content">
+    <div class="project-image rapido-project">
 
-                <div class="project-category">
-                    PRODUCT MANAGEMENT • AI
-                </div>
+        <div class="rapido-card">
 
-                <h3>
-                    AI in SaaS Product Management
-                </h3>
+            <small>
+                RAPIDO
+            </small>
 
-                <p>
+            <strong>
+                PRO
+            </strong>
 
-                    Exploring how artificial intelligence can support
-                    backlog prioritisation, customer feedback analysis
-                    and roadmap planning.
+            <span>
+                CAPTAIN SAAS EXPERIENCE
+            </span>
 
-                </p>
+        </div>
 
-                <a href="#">
-                    VIEW CASE STUDY →
-                </a>
+    </div>
 
-            </div>
 
-        </article>
+    <div class="project-content">
 
+        <div class="project-category">
+            PRODUCT STRATEGY • SAAS
+        </div>
+
+        <h3>
+            Rapido Pro
+        </h3>
+
+        <p>
+
+            A premium SaaS product concept exploring how Rapido
+            could create an additional recurring revenue stream
+            while improving convenience and business intelligence
+            for Captains and Drivers.
+
+        </p>
+
+        <a href="rapido.html">
+            VIEW CASE STUDY →
+        </a>
+
+    </div>
+
+</article>
 
 
         <!-- PROJECT 02 -->
@@ -508,7 +517,7 @@ document.body.innerHTML = `
 
                 </p>
 
-                <a href="#">
+                <a href="wip.html">
                     VIEW CASE STUDY →
                 </a>
 
@@ -517,69 +526,60 @@ document.body.innerHTML = `
         </article>
 
 <!-- PROJECT 04 -->
-
 <article class="project-card">
 
-    <div class="project-top">
+            <div class="project-top">
 
-        <span>
-            04
-        </span>
+                <span>
+                    01
+                </span>
 
-        <span>
-            MOBILITY / SAAS
-        </span>
+                <span>
+                    AI / PRODUCT
+                </span>
 
-    </div>
-
-
-    <div class="project-image rapido-project">
-
-        <div class="rapido-card">
-
-            <small>
-                RAPIDO
-            </small>
-
-            <strong>
-                PRO
-            </strong>
-
-            <span>
-                CAPTAIN SAAS EXPERIENCE
-            </span>
-
-        </div>
-
-    </div>
+            </div>
 
 
-    <div class="project-content">
+            <div class="project-image ai-project">
 
-        <div class="project-category">
-            PRODUCT STRATEGY • SAAS
-        </div>
+                <div class="ai-core">
+                    AI
+                </div>
 
-        <h3>
-            Rapido Pro
-        </h3>
+                <div class="ai-orbit orbit-one"></div>
 
-        <p>
+                <div class="ai-orbit orbit-two"></div>
 
-            A premium SaaS product concept exploring how Rapido
-            could create an additional recurring revenue stream
-            while improving convenience and business intelligence
-            for Captains and Drivers.
+            </div>
 
-        </p>
 
-        <a href="rapido.html">
-            VIEW CASE STUDY →
-        </a>
+            <div class="project-content">
 
-    </div>
+                <div class="project-category">
+                    PRODUCT MANAGEMENT • AI
+                </div>
 
-</article>
+                <h3>
+                    AI in SaaS Product Management
+                </h3>
+
+                <p>
+
+                    Exploring how artificial intelligence can support
+                    backlog prioritisation, customer feedback analysis
+                    and roadmap planning.
+
+                </p>
+
+                <a href="wip.html">
+                    VIEW CASE STUDY →
+                </a>
+
+            </div>
+
+        </article>
+
 
     </div>
 
