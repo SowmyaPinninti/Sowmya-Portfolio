@@ -847,14 +847,27 @@ document.body.innerHTML = `
 
     </h2>
 
-    <a
-        href="mailto:YOUR_EMAIL"
-        class="contact-button"
-    >
+    <div class="contact-details">
 
-        GET IN TOUCH →
-
+    <a href="mailto:sowmyapinninti724@gmail.com" class="contact-link">
+        <span>emial:</span>
+        sowmyapinninti724@gmail.com
     </a>
+<p>
+    <a href="https://www.linkedin.com/in/sowmyapinninti"
+       class="contact-link"
+       target="_blank"
+       rel="noopener noreferrer">
+        <span>linkedln: </span>
+       https://www.linkedin.com/in/sowmyapinninti
+    </a>
+</p>
+</div>
+
+<a href="mailto:sowmyapinninti724@gmail.com" class="contact-button">
+    GET IN TOUCH
+    <span class="hand-up">☝️</span>
+</a>
 
 </section>
 

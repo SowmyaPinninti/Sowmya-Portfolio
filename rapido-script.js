@@ -913,7 +913,7 @@ Keywords: ride-hailing, two-sided marketplace, SaaS subscription, driver retenti
     <div class="figma-showcase">
 
         <img
-            src="images/Rapido Pro.png"
+            src="images/RapidoPro.png"
             alt="Rapido Pro FastPay proposed Captain mobile interface"
             style="padding-left: 412px;"
         >
